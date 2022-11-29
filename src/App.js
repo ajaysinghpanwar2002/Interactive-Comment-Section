@@ -1,8 +1,11 @@
 import React from 'react'
-import "./global.css"
+import AddComment from './components/AddComment.jsx'
+import "./styles/global.css"
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <AddComment/>
+    </div>
   )
 }
 

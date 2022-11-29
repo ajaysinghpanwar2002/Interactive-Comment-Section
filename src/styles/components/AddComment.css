@@ -1,0 +1,32 @@
+.addcomment {
+    /* border: 2px solid black; */
+    display: flex;
+    padding: 20px;
+    /* background-color: antiquewhite; */
+    background-color: white;
+    border-radius: 20px;
+}
+
+.userimage-addcomment {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.textbox-addcomment {
+    height: 100px;
+    width: 900px;
+    border-radius: 5px;
+}
+
+::placeholder {
+    color: rgb(67, 66, 68);
+}
+
+.send-addcomment {
+    height: 50px;
+    width: 100px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(107, 106, 141);
+    color: white;
+}

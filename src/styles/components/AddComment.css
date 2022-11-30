@@ -5,6 +5,8 @@
     /* background-color: antiquewhite; */
     background-color: white;
     border-radius: 20px;
+    box-shadow: 10px 10px 8px 10px #888888;
+    justify-content: center;
 }
 
 .userimage-addcomment {

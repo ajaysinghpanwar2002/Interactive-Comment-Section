@@ -1,0 +1,11 @@
+.all-comments{
+    display: flex;
+}
+.topBar-comments{
+    display: flex;
+    /* justify-content: center; */
+
+}
+.votes-comments{
+
+}
